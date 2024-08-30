@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "cn.punctual-solutions.tool": "1.1.29",
+    "com.punctual-solutions.xr.picoxr": "2.5.4",
+    "com.unity.ai.navigation": "1.1.5",
+    "com.unity.ide.rider": "3.0.31",
+    "com.unity.multiplayer.tools": "1.1.1",
+    "com.unity.netcode.gameobjects": "1.9.1",
+    "com.unity.textmeshpro": "3.0.9",
+    "com.unity.timeline": "1.7.6",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.xr.oculus": "4.2.0",
+    "com.unity.xr.openxr": "1.11.0",
+    "com.unity.modules.particlesystem": "1.0.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "punctual-solutions",
+      "url": "http://119.3.163.38:4873/",
+      "scopes": [
+        "cn.punctual-solutions",
+        "com.bytedance",
+        "com.punctual-solutions"
+      ]
+    },
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "cn.punctual-solutions.tool",
+        "com.cysharp.unitask",
+        "com.ls9512.utween",
+        "com.u2sb.vyaml.unity.resolvers",
+        "jp.hadashikick.vyaml"
+      ]
+    },
+    {
+      "name": "Unity NuGet",
+      "url": "https://unitynuget-registry.azurewebsites.net",
+      "scopes": [
+        "org.nuget"
+      ]
+    }
+  ]
+}
